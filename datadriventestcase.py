@@ -18,9 +18,11 @@ for row in range(2, row_count + 1):  # reading data from all rws and first colum
     username_textbox = driver.find_element_by_xpath("//input[@id='user-name']")
     password_textbox = driver.find_element_by_xpath("//input[@id='password']")
     username_textbox.send_keys(username)  # provide the username in the username textbox
-    password_textbox.send_keys(password)  # provide the password in the password textbox
+    password_textbox.clear()
+    password_textbox.send_keys(password)# provide the password in the password textbox
+    time.sleep(3)
     password_textbox.submit()  # click on login button
-    time.sleep(6)
+    time.sleep(10)
     if driver.find_elements_by_class_name("inventory_container"):  # if login is successful then page title should match
         print("Text Case passed")
         xlutiles.write_data(file_path, sheet, row, 3, "Correct Credential")  # updated excel with the result
