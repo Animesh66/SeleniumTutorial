@@ -6,16 +6,17 @@ driver = webdriver.Chrome()
 driver.maximize_window()
 driver.get("https://www.saucedemo.com/")
 driver.set_page_load_timeout(10)
-username_textbox = driver.find_element_by_id("user-name")
-password_textbox = driver.find_element_by_id("password")
 file_path ="/Users/animeshmukherjee/Desktop/Animesh/Login_id.xlsx"  # path of the excel file
 sheet = "Sheet1"
 row_count = xlutiles.get_row_count(file_path, sheet)
 column_count = xlutiles.get_column_count(file_path, sheet)
 for row in range(2, row_count + 1):  # reading data from all rws and first column
+    time.sleep(3)
     username = xlutiles.read_data(file_path, sheet, row, 1)  # extract all usernames
     password = xlutiles.read_data(file_path, sheet, row, 2)   # extract all passwords
     time.sleep(5)
+    username_textbox = driver.find_element_by_xpath("//input[@id='user-name']")
+    password_textbox = driver.find_element_by_xpath("//input[@id='password']")
     username_textbox.send_keys(username)  # provide the username in the username textbox
     password_textbox.send_keys(password)  # provide the password in the password textbox
     password_textbox.submit()  # click on login button
