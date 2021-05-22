@@ -1,6 +1,13 @@
 import unittest
 
 
+def setUpModule():
+    print("This is setUpModule")  # this method will execute at the start of the module
+
+
+def tearDownModule():
+    print("This is tearDownModule")  # this method will execute at the end of the module
+
 class AppTesting(unittest.TestCase):
     @classmethod # this is called decorator
     def setUp(self):  # setUp method will execute everytime before execution of each function
