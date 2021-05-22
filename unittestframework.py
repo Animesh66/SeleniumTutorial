@@ -2,7 +2,7 @@ import unittest
 
 
 class Test(unittest.TestCase):
-    def first_testcase(self):
+    def test_first_testcase(self):  # IMPORTANT: method name will always tart with "test_"
         print("Test case run started..")
         print("This is my first test case")
         print("Test case run finished..")
