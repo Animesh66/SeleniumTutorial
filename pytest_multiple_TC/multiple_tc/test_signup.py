@@ -4,7 +4,7 @@ import pytest
 @pytest.yield_fixture()
 def setup():
     print("Open browser")
-    print("Open URl before signup")
+    print("Open URL before signup")
     yield
     print("Close browser after signup")
 
