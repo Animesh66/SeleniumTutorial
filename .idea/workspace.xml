@@ -53,28 +53,7 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for TestCase_orangeHRM.OrangeHRMTest">
-    <configuration name="All_TestSuites" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_suite/all_test_suite" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_suite/all_test_suite/All_TestSuites.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in TestCase_orangeHRM.py">
     <configuration name="test_pytest_fixture_two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,13 +117,27 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in TestCase_orangeHRM.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/End_to_End/html_testRunner" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/End_to_End/html_testRunner/TestCase_orangeHRM.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for TestCase_orangeHRM.OrangeHRMTest" />
+        <item itemvalue="Python tests.Unittests in TestCase_orangeHRM.py" />
         <item itemvalue="Python tests.Unittests for TestCase_orangeHRM.OrangeHRMTest.test_login" />
+        <item itemvalue="Python tests.Unittests for TestCase_orangeHRM.OrangeHRMTest" />
         <item itemvalue="Python tests.Unittests for TestCase_orangeHRM.OrangeHRMTest.test_home_page_title_verification" />
         <item itemvalue="Python.test_pytest_fixture_two" />
-        <item itemvalue="Python.All_TestSuites" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621782169802</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="End to End test case(HTML report)">
+      <created>1621783304968</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1621783304968</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

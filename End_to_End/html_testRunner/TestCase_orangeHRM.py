@@ -36,5 +36,5 @@ class OrangeHRMTest(unittest.TestCase):  # this is the unittest class
 
 
 if __name__ == "__main__":  # this command will execute the all class methods at once
-    unittest.main()
-
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output="/Users/animeshmukherjee/Desktop/Animesh/Log_file"))
+    # this command will generate one HTML report of the output file at the given folder location
