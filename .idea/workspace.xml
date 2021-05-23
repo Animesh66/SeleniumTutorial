@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f19d4b4a-dab3-4307-bbec-944b88b494fd" name="Default Changelist" comment="Pytest fixture file added.">
-      <change afterPath="$PROJECT_DIR$/pytest/test_pytest_fixture_two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_multiple_TC/multiple_tc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_multiple_TC/multiple_tc/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest_multiple_TC/multiple_tc/test_signup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -416,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621771468863</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Pytest fixture file added.">
+      <created>1621772339969</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1621772339969</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
