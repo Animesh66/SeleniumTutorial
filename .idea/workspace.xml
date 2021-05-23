@@ -53,7 +53,7 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_pytest_fixture_two">
+  <component name="RunManager" selected="Python tests.Unittests for TestCase_orangeHRM.OrangeHRMTest">
     <configuration name="All_TestSuites" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,55 +96,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for TC_LoginTest.LoginTest.test_loginbyFaceook" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for TestCase_orangeHRM.OrangeHRMTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_suite/sanity_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/End_to_End/html_testRunner" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TC_LoginTest.LoginTest.test_loginbyFaceook&quot;" />
+      <option name="_new_target" value="&quot;TestCase_orangeHRM.OrangeHRMTest&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for TC_PaymentReturnbyBank.PaymentReturnbyBank.test_paymentreturnbyBank" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for TestCase_orangeHRM.OrangeHRMTest.test_home_page_title_verification" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_suite/functional_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/End_to_End/html_testRunner" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TC_PaymentReturnbyBank.PaymentReturnbyBank.test_paymentreturnbyBank&quot;" />
+      <option name="_new_target" value="&quot;TestCase_orangeHRM.OrangeHRMTest.test_home_page_title_verification&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in TC_PaymentTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for TestCase_orangeHRM.OrangeHRMTest.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_suite/functional_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/End_to_End/html_testRunner" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_suite/functional_test/TC_PaymentTest.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;TestCase_orangeHRM.OrangeHRMTest.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for TestCase_orangeHRM.OrangeHRMTest" />
+        <item itemvalue="Python tests.Unittests for TestCase_orangeHRM.OrangeHRMTest.test_login" />
+        <item itemvalue="Python tests.Unittests for TestCase_orangeHRM.OrangeHRMTest.test_home_page_title_verification" />
         <item itemvalue="Python.test_pytest_fixture_two" />
         <item itemvalue="Python.All_TestSuites" />
-        <item itemvalue="Python tests.Unittests for TC_PaymentReturnbyBank.PaymentReturnbyBank.test_paymentreturnbyBank" />
-        <item itemvalue="Python tests.Unittests in TC_PaymentTest.py" />
-        <item itemvalue="Python tests.Unittests for TC_LoginTest.LoginTest.test_loginbyFaceook" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621780819163</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="End to End test case(HTML report)">
+      <created>1621782169802</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1621782169802</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
