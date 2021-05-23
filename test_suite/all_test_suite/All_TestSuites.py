@@ -20,4 +20,4 @@ master_test_suite = unittest.TestSuite([testcase_1, testcase_2, testcase_3, test
 
 # Run a specific test suite
 
-unittest.TextTestRunner().run(sanity_test_suite)  # run sanity test suite
+unittest.TextTestRunner(verbosity=4).run(master_test_suite)  # run sanity test suite
