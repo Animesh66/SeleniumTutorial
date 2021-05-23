@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f19d4b4a-dab3-4307-bbec-944b88b494fd" name="Default Changelist" comment="pytest file created.">
-      <change afterPath="$PROJECT_DIR$/pytest/test_pytestfixture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f19d4b4a-dab3-4307-bbec-944b88b494fd" name="Default Changelist" comment="Pytest fixture file added.">
+      <change beforePath="$PROJECT_DIR$/pytest/test_pytestfixture.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest/test_pytestfixture.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -395,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621763526828</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Pytest fixture file added.">
+      <created>1621771200977</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1621771200978</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -426,6 +432,7 @@
     <MESSAGE value="assertion method" />
     <MESSAGE value="Test Suite test cases" />
     <MESSAGE value="pytest file created." />
-    <option name="LAST_COMMIT_MESSAGE" value="pytest file created." />
+    <MESSAGE value="Pytest fixture file added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pytest fixture file added." />
   </component>
 </project>
