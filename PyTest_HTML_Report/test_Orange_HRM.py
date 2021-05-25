@@ -16,12 +16,13 @@ class TestOrangeHRM():
     def test_homepage_title(self, setup):
         self.page_title = self.driver.title
         assert self.page_title == "OrangeHRM"
-        time.sleep(5)
+        time.sleep(2)
 
     def test_login(self, setup):
         self.driver.find_element_by_id("txtUsername").send_keys("Admin")
         self.driver.find_element_by_id("txtPassword").send_keys("admin123")
         self.driver.find_element_by_id("txtPassword").submit()
-        time.sleep(5)
+        time.sleep(2)
+        assert self.driver.title == "OrangeHRM"
 
 # To run this file we need to type "pytest -v -s PyTest_HTML_Report/test_Orange_HRM.py" in the terminal
