@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f19d4b4a-dab3-4307-bbec-944b88b494fd" name="Default Changelist" comment="pytest HTML report. WORKING">
+    <list default="true" id="f19d4b4a-dab3-4307-bbec-944b88b494fd" name="Default Changelist" comment="pytest HTML report. WORKING.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyTest_HTML_Report/test_Orange_HRM.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyTest_HTML_Report/test_Orange_HRM.py" afterDir="false" />
     </list>
@@ -149,13 +149,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620753629052</updated>
-    </task>
-    <task id="LOCAL-00002" summary="new python excel operation files added">
-      <created>1621524457192</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1621524457192</updated>
     </task>
     <task id="LOCAL-00003" summary="new python excel operation files added">
       <created>1621525230230</created>
@@ -493,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621962979678</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="pytest HTML report. WORKING.">
+      <created>1621963073242</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1621963073242</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,6 +528,7 @@
     <MESSAGE value="End to End test case(HTML report)" />
     <MESSAGE value="pytest HTML report" />
     <MESSAGE value="pytest HTML report. WORKING" />
-    <option name="LAST_COMMIT_MESSAGE" value="pytest HTML report. WORKING" />
+    <MESSAGE value="pytest HTML report. WORKING." />
+    <option name="LAST_COMMIT_MESSAGE" value="pytest HTML report. WORKING." />
   </component>
 </project>
