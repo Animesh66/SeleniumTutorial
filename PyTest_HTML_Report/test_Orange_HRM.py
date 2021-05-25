@@ -25,5 +25,5 @@ class TestOrangeHRM():
         time.sleep(2)
         assert self.driver.title == "OrangeHRM"
 
-# To run this file we need to type "pytest -v -s --html=report.html --self-contained-html PyTest_HTML_Report/test_Orange_HRM.py" in the terminal
+# To run this file we need to type "pytest -v -s --html=/Users/animeshmukherjee/Desktop/Animesh/Log_file/report.html --self-contained-html PyTest_HTML_Report/test_Orange_HRM.py" in the terminal
 # This will generate the HTML report along with test result
