@@ -3,10 +3,10 @@ import pytest
 
 @pytest.yield_fixture()
 def setup():
-    print("Open browser")
+    print("Open browser")  # this will be executed before execution of all methods
     print("Open URl before login")
     yield
-    print("Close browser after login")
+    print("Close browser after login")  # this will be executed after execution of all methods
 
 
 def test_login_by_email(setup):

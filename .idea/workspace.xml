@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f19d4b4a-dab3-4307-bbec-944b88b494fd" name="Default Changelist" comment="End to End test case(HTML report)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/End_to_End/html_testRunner/TestCase_orangeHRM.py" beforeDir="false" afterPath="$PROJECT_DIR$/End_to_End/html_testRunner/TestCase_orangeHRM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_multiple_TC/multiple_tc/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest_multiple_TC/multiple_tc/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -465,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621787569757</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="End to End test case(HTML report)">
+      <created>1621787768683</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1621787768683</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
