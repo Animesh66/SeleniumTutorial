@@ -8,11 +8,12 @@ class TestOrangeHRM():
     def setup(self):
         self.driver = webdriver.Chrome()
         self.driver.maximize_window()
+        self.driver.get("https://opensource-demo.orangehrmlive.com/")
+        self.driver.set_page_load_timeout(10)
         yield
         self.driver.close()  # this statement will be executed after execution of each method
 
     def test_homepage_title(self, setup):
-        self.driver.get("https://opensource-demo.orangehrmlive.com/")
         self.page_title = self.driver.title
         assert self.page_title == "OrangeHRM"
         time.sleep(5)
