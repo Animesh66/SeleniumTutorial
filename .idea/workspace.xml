@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f19d4b4a-dab3-4307-bbec-944b88b494fd" name="Default Changelist" comment="pytest HTML report. WORKING.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyTest_HTML_Report/test_Orange_HRM.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyTest_HTML_Report/test_Orange_HRM.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,13 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620753629052</updated>
-    </task>
-    <task id="LOCAL-00004" summary="new python excel operation files added">
-      <created>1621525359903</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1621525359903</updated>
     </task>
     <task id="LOCAL-00005" summary="Data Driven Test cases">
       <created>1621532466517</created>
@@ -493,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621963662003</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="pytest HTML report. WORKING.">
+      <created>1621963972586</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1621963972586</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
