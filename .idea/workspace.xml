@@ -2,6 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f19d4b4a-dab3-4307-bbec-944b88b494fd" name="Default Changelist" comment="pytest HTML report. WORKING.">
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/PyHamcrest-2.0.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/PyHamcrest-2.0.2.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/PyHamcrest-2.0.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/PyHamcrest-2.0.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/PyHamcrest-2.0.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/PyHamcrest-2.0.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_commons_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_commons_test/container.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_commons_test/label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_commons_test/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_commons_test/result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_python_commons_test-2.9.42.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_python_commons_test-2.9.42.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_python_commons_test-2.9.42.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_python_commons_test-2.9.42.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_python_commons_test-2.9.42.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/allure_python_commons_test-2.9.42.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/assert_that.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/base_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/base_matcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/allof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/anyof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/described_as.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/is_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/isanything.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/isequal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/isinstanceof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/isnone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/isnot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/issame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/core/raises.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/helpers/hasmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/helpers/ismock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/helpers/wrap_matcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/matcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/selfdescribing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/selfdescribingvalue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/core/string_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/is_empty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/isdict_containing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/isdict_containingentries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/isdict_containingkey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/isdict_containingvalue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/isin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/issequence_containing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/issequence_containinginanyorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/issequence_containinginorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/collection/issequence_onlycontaining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/integration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/integration/match_equality.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/number/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/number/iscloseto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/number/ordering_comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/object/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/object/haslength.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/object/hasproperty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/object/hasstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/text/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/text/isequal_ignoring_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/text/isequal_ignoring_whitespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/text/stringcontains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/text/stringcontainsinorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/text/stringendswith.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/text/stringmatches.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/text/stringstartswith.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/library/text/substringmatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.9/site-packages/hamcrest/py.typed" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Allure_Report/allure_report/test_allure_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/Allure_Report/allure_report/test_allure_report.py" afterDir="false" />
     </list>
@@ -149,13 +224,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620753629052</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Data Driven Test cases">
-      <created>1621610027691</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1621610027691</updated>
     </task>
     <task id="LOCAL-00007" summary="Data Driven Test cases - COMPLETED &amp; WORKING">
       <created>1621612778744</created>
@@ -493,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622049038251</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="pytest HTML report. WORKING.">
+      <created>1622049623005</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1622049623005</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
