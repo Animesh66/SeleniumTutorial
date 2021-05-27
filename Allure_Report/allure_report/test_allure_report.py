@@ -1,6 +1,7 @@
 from selenium import webdriver
+# import allure
 import pytest
-import allure
+
 
 class TestHRM():
 
