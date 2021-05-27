@@ -1,9 +1,7 @@
-import time
-
 from selenium import webdriver
 # import allure
 import pytest
-
+import time
 
 class TestHRM():
 
