@@ -150,13 +150,6 @@
       <option name="presentableId" value="Default" />
       <updated>1620753629052</updated>
     </task>
-    <task id="LOCAL-00012" summary="logging test cases captured">
-      <created>1621672446458</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1621672446458</updated>
-    </task>
     <task id="LOCAL-00013" summary="unit test framework">
       <created>1621673682787</created>
       <option name="number" value="00013" />
@@ -493,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622216157467</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Allure Report almost completed">
+      <created>1622216998690</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1622216998690</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

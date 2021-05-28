@@ -54,3 +54,5 @@ class TestHRM():
 # "allure serve "<previously generated file path>"
 # Above command will generate the report in temporary folder and this report is not shareable
 # How to share allure report?
+# Go to www.netlifty.com -> Sign up and create an account
+# Drag and drop the whole temporary folder in the deployment area
