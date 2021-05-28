@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f19d4b4a-dab3-4307-bbec-944b88b494fd" name="Default Changelist" comment="Allure Report">
+    <list default="true" id="f19d4b4a-dab3-4307-bbec-944b88b494fd" name="Default Changelist" comment="Allure Report almost completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Allure_Report/allure_report/test_allure_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/Allure_Report/allure_report/test_allure_report.py" afterDir="false" />
     </list>
@@ -149,13 +149,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620753629052</updated>
-    </task>
-    <task id="LOCAL-00011" summary="screenshot capture test case">
-      <created>1621670373421</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1621670373421</updated>
     </task>
     <task id="LOCAL-00012" summary="logging test cases captured">
       <created>1621672446458</created>
@@ -493,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622137483718</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Allure Report almost completed">
+      <created>1622216157467</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1622216157467</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,6 +530,7 @@
     <MESSAGE value="pytest HTML report. WORKING" />
     <MESSAGE value="pytest HTML report. WORKING." />
     <MESSAGE value="Allure Report" />
-    <option name="LAST_COMMIT_MESSAGE" value="Allure Report" />
+    <MESSAGE value="Allure Report almost completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Allure Report almost completed" />
   </component>
 </project>

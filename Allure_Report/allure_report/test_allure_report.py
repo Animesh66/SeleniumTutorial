@@ -9,6 +9,7 @@ import time
 @allure.severity(allure.severity_level.NORMAL)
 class TestHRM():
 
+    # this is method level priority
     @allure.severity(allure.severity_level.MINOR)
     def test_logo(self):
         self.driver = webdriver.Chrome()
@@ -47,4 +48,9 @@ class TestHRM():
             self.driver.close()
             assert False
 
-# to run the program in terminal write "pytest -v -s Allure_Report/allure_report/test_allure_report.py"
+# to run the program and generate allure report in terminal write
+# "pytest -v -s --alluredir="/Users/animeshmukherjee/Desktop/Animesh/Log_file" Allure_Report/allure_report/test_allure_report.py"
+# To generate the final allure report we need to run below command in terminal
+# "allure serve "<previously generated file path>"
+# Above command will generate the report in temporary folder and this report is not shareable
+# How to share allure report?
